@@ -3,5 +3,5 @@
 Olá! Bem vindo ao meu livro de receitas! As receitas presentes são: 
 
 - Strogonoff de frango
-- Em breve...
+- Pavê
 
